@@ -1,0 +1,24 @@
+{
+  "name": "emsystem",
+  "version": "1.0.0",
+  "description": "One Stop Shop for Employee Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidfinnx/EMsystem.git"
+  },
+  "author": "Veikko Aho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidfinnx/EMsystem/issues"
+  },
+  "homepage": "https://github.com/Vidfinnx/EMsystem#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.1",
+    "mysql": "^2.18.1"
+  }
+}
