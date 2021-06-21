@@ -41,7 +41,9 @@
   (for a phenomenal code reference)
   
   https://stackoverflow.com/questions/23877487/how-to-specify-decimal-precision-and-scale-number-in-mysql-using-phpmyadmin
+  
   https://www.npmjs.com/package/inquirer
+  
   https://www.npmjs.com/package/asciiart-logo
 
   
