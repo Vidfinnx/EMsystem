@@ -10,7 +10,8 @@
   - [Contact Information For Questions](#questions)
   # Description
   Dwights Employee Tracker System Using `Inquirer` , `Node.Js` , `Mysql` 
-  ![image](https://user-images.githubusercontent.com/79023746/122720245-16e9aa80-d224-11eb-9e92-6b66a97d32b3.png)
+ ![DEMSS](https://user-images.githubusercontent.com/79023746/122721716-da1eb300-d225-11eb-90c6-191bc9584bad.jpg)
+
 
   -CURRENT ISSUES TRYING TO REPAIR HAVE TO ADD ROLE BEFORE CAN ADD EMPLOYEE OR DEPARTMENT
   # Installation
