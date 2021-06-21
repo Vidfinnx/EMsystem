@@ -45,6 +45,8 @@
   https://www.npmjs.com/package/inquirer
   
   https://www.npmjs.com/package/asciiart-logo
+  
+  https://sqlbolt.com/lesson/select_queries_introduction
 
   
   
