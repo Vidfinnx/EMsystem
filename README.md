@@ -17,6 +17,8 @@
   Clone Git Repository
 
   - Open Terminal `Npm install`
+  - Load Schema.sql into SQL Workbench software
+  - Load Seeds.sql into SQL Workbench software to populate tables
 
 
 
