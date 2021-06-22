@@ -13,7 +13,6 @@
  ![DEMSS](https://user-images.githubusercontent.com/79023746/122721716-da1eb300-d225-11eb-90c6-191bc9584bad.jpg)
 
 
-  -CURRENT ISSUES TRYING TO REPAIR HAVE TO ADD ROLE BEFORE CAN ADD EMPLOYEE OR DEPARTMENT
   # Installation
   Clone Git Repository
 
@@ -24,7 +23,7 @@
 
 
   # Usage
-  - To Start Open Terminal and type `node app.js`
+  - To Start *MAXIMIZE TERMINAL WINDOW SIZE FOR OPTIMAL LOGO VIEWING* Open Terminal and type `node app.js`
   ![DEMS](https://user-images.githubusercontent.com/79023746/122720394-48fb0c80-d224-11eb-8c58-799307ca2f45.gif)
 
     
